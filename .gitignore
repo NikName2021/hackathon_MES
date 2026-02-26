@@ -15,3 +15,4 @@ spa/package-lock.json
 /src/app/tests/logs/
 /spa/.env
 .data
+/spa/dist/
